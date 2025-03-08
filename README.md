@@ -19,9 +19,9 @@
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝```
 
-I'm a backend-focused developer with a passion for building efficient and scalable applications. 
+I'm an aspiring backend-developer focused on building scalable & efficient applications. 
 I primarily work with Python and Golang, and I have experience with JavaScript as well.
-My projects range from static site generators to space weather forecasting tools (in progress).
+
 
 
 
