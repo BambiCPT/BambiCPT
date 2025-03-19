@@ -20,7 +20,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝```
 
 I'm an aspiring backend-developer focused on building scalable & efficient applications. 
-I primarily work with Python and Golang, and I have experience with JavaScript as well.
+I primarily use Python and Golang, and I have some experience with JavaScript as well.
 
 
 
